@@ -1,17 +1,20 @@
-# destini
+# Destini
 
-A new Flutter project.
+Destini is a Flutter-based storytelling app that allows users to make choices that affect the story's outcome. It's inspired by the classic "choose your own adventure" books.
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+- Interactive storytelling with multiple story paths
+- Clean and simple UI
+- Uses Flutter's stateful widgets to manage story progression
+- Visibility widget to manage UI components dynamically
 
-A few resources to get you started if this is your first Flutter project:
+## Screenshots
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+<img src="screenshots/screenshot1.png" alt="Screenshot 1" width="400" />
+<img src="screenshots/screenshot1.png" alt="Screenshot 2" width="400" />
+<img src="screenshots/screenshot1.png" alt="Screenshot 3" width="400" />
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+
 
